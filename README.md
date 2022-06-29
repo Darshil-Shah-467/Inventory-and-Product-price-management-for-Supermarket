@@ -1,1 +1,1 @@
-# Inventory-and-Product-price-management-for-Supermarket
+# Inventory and Product price management for Supermarket
